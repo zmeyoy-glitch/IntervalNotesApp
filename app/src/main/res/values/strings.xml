@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Interval Notes</string>
+    <string name="note_title">Заголовок заметки</string>
+    <string name="note_content">Контент заметки</string>
+    <string name="time_slot_1700">17:00 - 17:15</string>
+    <string name="time_slot_1715">17:15 - 17:30</string>
+    <string name="time_slot_1730">17:30 - 17:45</string>
+    <string name="time_slot_1745">17:45 - 18:00</string>
+    <string name="time_slot_1800">18:00 - 18:15</string>
+    <string name="time_slot_1815">18:15 - 18:30</string>
+    <string name="time_slot_1830">18:30 - 18:45</string>
+    <string name="time_slot_1845">18:45 - 19:00</string>
+    <string name="time_slot_1900">19:00 - 19:15</string>
+    <string name="time_slot_1915">19:15 - 19:30</string>
+    <string name="time_slot_1930">19:30 - 19:45</string>
+    <string name="time_slot_1945">19:45 - 20:00</string>
+</resources>
